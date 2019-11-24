@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574548933906.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1732745856",
+    "id" : "8C239163",
+    "lastKnownWriteTime" : 1574611450,
+    "last_content_update" : 1574611450621,
+    "path" : "E:/PROJECTS/R-ANALYTICS/REPOS/2019/breakout_detection/scripts/breakout_detection.R",
+    "project_path" : "scripts/breakout_detection.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
